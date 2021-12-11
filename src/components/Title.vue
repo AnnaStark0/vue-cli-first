@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>La mia prima app con Vue CLI!</h2>
+        <h1>La mia prima app con Vue CLI!</h1>
     </div>
 </template>
 
@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style scoped>
-h2 {
-    color: aqua;
+h1 {
+    color: rgb(3, 207, 30);
 }
 </style>
