@@ -16,7 +16,7 @@ export default {
 .jumbo {
     height: 400px;
     background-image: url(../assets/vueimg.png);
-    background-size: cover;
+    background-size: contain;
     background-position: center;
 
     display: flex;
